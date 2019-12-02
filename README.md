@@ -1,3 +1,3 @@
 # fullstack_event_recommand
 
-This is a website which recommend user the events nearby.
+Java Web Service Development – Event Search and Ticket Recommendation
